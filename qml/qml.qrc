@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>BufferForm.qml</file>
+        <file>location.png</file>
+        <file>mylocation.png</file>
+        <file>rotate.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>buffer.png</file>
+        <file>exit.png</file>
+        <file>line-32.png</file>
+        <file>point-32.png</file>
+        <file>polygon-32.png</file>
+        <file>face.png</file>
+        <file>map.png</file>
+        <file>monitor.png</file>
+        <file>expand.png</file>
+        <file>Face.qml</file>
+        <file>Home.qml</file>
+        <file>openmap.png</file>
+        <file>tool.png</file>
+        <file>Monitor.qml</file>
+        <file>volume.png</file>
+        <file>pause.png</file>
+        <file>voloff.png</file>
+        <file>R-C.png</file>
+        <file>back.png</file>
+        <file>beginplay.png</file>
+        <file>fast.png</file>
+        <file>footprint.png</file>
+        <file>pre.png</file>
+        <file>next.png</file>
+        <file>trash-32.png</file>
+        <file>SketchButton.qml</file>
+        <file>check-circle-32.png</file>
+        <file>circle-disallowed-32.png</file>
+        <file>erase-32.png</file>
+        <file>redo-32.png</file>
+        <file>save-32.png</file>
+        <file>undo-32.png</file>
+        <file>accept.png</file>
+        <file>connect.png</file>
+        <file>login.png</file>
+    </qresource>
+</RCC>
